@@ -1,0 +1,18 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\sugarloaf_savedata.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\sugarloaf_savedata.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\sugarloaf_savedata.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\obj\Debug\sugarloaf_savedata.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\obj\Debug\sugarloaf_savedata.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\obj\Debug\sugarloaf_savedata.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\obj\Debug\sugarloaf_savedata.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\obj\Debug\sugarloaf_savedata.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\obj\Debug\sugarloaf_savedata.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\Spire.License.dll
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\Spire.Pdf.dll
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\Microsoft.mshtml.dll
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\Spire.XLS.xml
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\Spire.License.xml
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\Spire.Pdf.xml
+D:\Projects C#\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\bin\Debug\sugarloaf_savedata.exe.config
+D:\Projects C#\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\obj\Debug\sugarloaf_savedata.exe
+D:\Projects C#\mini_projeck_template\sugarloaf_savedata\sugarloaf_savedata\obj\Debug\sugarloaf_savedata.pdb
